@@ -1,0 +1,6 @@
+@TPS_HostAddress = http://localhost:5190
+
+GET {{TPS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
